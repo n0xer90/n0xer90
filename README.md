@@ -1,6 +1,6 @@
 ## Hi, I'm Pawel 👋
 
-Indie developer from the UK. I build native apps for Apple platforms and tinker with AI, productivity tools, and whatever idea won't leave my head.
+Indie developer from Poland, based in the UK. I build native apps for Apple platforms and tinker with AI, productivity tools, and whatever idea won't leave my head.
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000?style=flat&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000?style=flat&logo=apple&logoColor=white) ![AI](https://img.shields.io/badge/AI-8B5CF6?style=flat&logoColor=white)
 
