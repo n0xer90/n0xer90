@@ -1,4 +1,4 @@
-# Hey, I'm n0xer90
+# Hi, I'm n0xer
 
 I build lightweight macOS utilities — small, fast, native apps that do one thing well. No Electron, no bloat, just Swift and Cocoa.
 
