@@ -24,6 +24,8 @@ Small, native macOS tools. No Electron, no bloat, single-file Swift apps.
 
 🖥 **[MemoryBar](https://github.com/n0xer90/MemoryBar)** - Real-time memory & CPU sparkline graphs in your menu bar. Memory pressure, top processes, swap usage. ~90KB binary
 
+📈 **GreedBar** *(coming soon)* - Fear & Greed Index in your menu bar. Live market sentiment at a glance
+
 ```bash
 brew tap n0xer90/tap && brew install --cask memorybar
 ```
