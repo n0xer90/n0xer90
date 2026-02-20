@@ -1,8 +1,8 @@
 ## Hi, I'm Pawel 👋
 
-Indie developer from Poland, based in the UK. I build native apps for Apple platforms and tinker with AI, productivity tools, and whatever idea won't leave my head.
+Indie developer from the UK. I build native apps for Apple platforms and tinker with AI, productivity tools, and whatever idea won't leave my head.
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000?style=flat&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000?style=flat&logo=apple&logoColor=white) ![AI](https://img.shields.io/badge/AI-8B5CF6?style=flat&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000?style=flat&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000?style=flat&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![AI](https://img.shields.io/badge/AI-8B5CF6?style=flat&logoColor=white)
 
 > Ship fast, keep it simple, respect the user.
 
